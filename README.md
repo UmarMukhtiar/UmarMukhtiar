@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @UmarMukhtiar
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning MEAN Stack Development
+- 💞️ I’m looking to collaborate on Web Development App
+- 📫 How to reach me Gmail: mumarmukhtiar@gmail.com
