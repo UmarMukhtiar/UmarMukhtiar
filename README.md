@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm Umar</h1>
-<h4 align="center">Software Engineer</h4>
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<br />
+<!--h1 without bottom border-->
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Umar Mukhtiar <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+;Competitive+Programmer;Always+learning+new+things"></a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/umar-mukhtiar-65105a213/"
@@ -18,12 +22,16 @@
   />
 </p>
 
-<br />
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 - 👨‍💻 I am currently working as a **Software Engineer**.
+- :computer: I am a competitive programmer.
+- :nerd_face: Always `learning new things`.
 - 🌱 I'm currently learning **Amazon Web Services**.
 - 💬 I love to talk about **Ideas**.
-- 💎 I am interested in learning about **Cloud Computing**.
+- 💎 I love using Software as a solution for every `Problem`.
 - 📩 You can reach out to me via **[Email](mailto:mumarmukhtiar@gmail.com)**.
 - ⚡ Constantly learning new technologies.
 
@@ -349,23 +357,11 @@
 
 <br />
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=UmarMukhtiar&show_icons=true&hide=issues&locale=en&count_private=true&theme=tokyonight&border_radius=20"
-    alt="UmarMukhtiar"
-  />
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/UmarMukhtiar">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=UmarMukhtiar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=UmarMukhtiar&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
-
-<br />
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=UmarMukhtiar&show_icons=true&locale=en&count_private=true&theme=tokyonight&border_radius=20"
-    alt="UmarMukhtiar"
-  />
-</p>
-
-<br />
-<br /><br />
