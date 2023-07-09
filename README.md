@@ -351,6 +351,16 @@
         />
       </a>
     </td>
+    <td align="center" width="96">
+      <a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
+        <img
+          src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/44_Bitbucket_logo_logos-512.png"
+          alt="BitBucket"
+          width="40"
+          height="40"
+        />
+      </a>
+    </td>
   </tr>
 </table>
 
