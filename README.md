@@ -26,10 +26,10 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- 👨‍💻 I am currently working as a **Software Engineer**.
+- 👨‍💻 I am currently working as a **Senior Software Engineer**.
 - :computer: I am a competitive programmer.
 - :nerd_face: Always `learning new things`.
-- 🌱 I'm currently learning **Amazon Web Services**.
+- 🌱 I'm currently learning **AWS and AI**.
 - 💬 I love to talk about **Ideas**.
 - 💎 I love using Software as a solution for every `Problem`.
 - 📩 You can reach out to me via **[Email](mailto:mumarmukhtiar@gmail.com)**.
